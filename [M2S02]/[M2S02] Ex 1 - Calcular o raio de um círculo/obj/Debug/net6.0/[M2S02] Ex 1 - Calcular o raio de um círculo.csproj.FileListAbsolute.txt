@@ -1,0 +1,15 @@
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 1 - Calcular o raio de um círculo\bin\Debug\net6.0\[M2S02] Ex 1 - Calcular o raio de um círculo.exe
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 1 - Calcular o raio de um círculo\bin\Debug\net6.0\[M2S02] Ex 1 - Calcular o raio de um círculo.deps.json
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 1 - Calcular o raio de um círculo\bin\Debug\net6.0\[M2S02] Ex 1 - Calcular o raio de um círculo.runtimeconfig.json
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 1 - Calcular o raio de um círculo\bin\Debug\net6.0\[M2S02] Ex 1 - Calcular o raio de um círculo.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 1 - Calcular o raio de um círculo\bin\Debug\net6.0\ref\[M2S02] Ex 1 - Calcular o raio de um círculo.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 1 - Calcular o raio de um círculo\bin\Debug\net6.0\[M2S02] Ex 1 - Calcular o raio de um círculo.pdb
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 1 - Calcular o raio de um círculo\obj\Debug\net6.0\[M2S02] Ex 1 - Calcular o raio de um círculo.csproj.AssemblyReference.cache
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 1 - Calcular o raio de um círculo\obj\Debug\net6.0\[M2S02] Ex 1 - Calcular o raio de um círculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 1 - Calcular o raio de um círculo\obj\Debug\net6.0\[M2S02] Ex 1 - Calcular o raio de um círculo.AssemblyInfoInputs.cache
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 1 - Calcular o raio de um círculo\obj\Debug\net6.0\[M2S02] Ex 1 - Calcular o raio de um círculo.AssemblyInfo.cs
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 1 - Calcular o raio de um círculo\obj\Debug\net6.0\[M2S02] Ex 1 - Calcular o raio de um círculo.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 1 - Calcular o raio de um círculo\obj\Debug\net6.0\[M2S02] Ex 1 - Calcular o raio de um círculo.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 1 - Calcular o raio de um círculo\obj\Debug\net6.0\ref\[M2S02] Ex 1 - Calcular o raio de um círculo.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 1 - Calcular o raio de um círculo\obj\Debug\net6.0\[M2S02] Ex 1 - Calcular o raio de um círculo.pdb
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 1 - Calcular o raio de um círculo\obj\Debug\net6.0\[M2S02] Ex 1 - Calcular o raio de um círculo.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GymAdministrationConsole/1.0.0": {
+        "dependencies": {
+          "GymAdministration.Core": "1.0.0"
+        },
+        "runtime": {
+          "GymAdministrationConsole.dll": {}
+        }
+      },
+      "GymAdministration.Core/1.0.0": {
+        "runtime": {
+          "GymAdministration.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GymAdministrationConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GymAdministration.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

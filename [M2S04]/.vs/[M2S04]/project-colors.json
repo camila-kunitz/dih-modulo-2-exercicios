@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fafc81ef-0ffd-4915-9b34-d83047bd5faa": {
+      "ProjectGuid": "fafc81ef-0ffd-4915-9b34-d83047bd5faa",
+      "DisplayName": "ProjetoConsole",
+      "ColorIndex": 0
+    },
+    "7d2ce100-78dd-489a-97b5-96a17ae30f80": {
+      "ProjectGuid": "7d2ce100-78dd-489a-97b5-96a17ae30f80",
+      "DisplayName": "ExerciciosTeoricos",
+      "ColorIndex": 1
+    },
+    "878da45c-dd0b-4d93-88ce-ca66958f2c05": {
+      "ProjectGuid": "878da45c-dd0b-4d93-88ce-ca66958f2c05",
+      "DisplayName": "BibliotecaClasses",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

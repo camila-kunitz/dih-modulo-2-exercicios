@@ -1,0 +1,18 @@
+[M2S04] Ex 8 - Método Construtor de Classe
+
+Durante a aula sobre Construtor de instância de classe, foi abordado sobre situações onde não precisamos inserir
+o construtor em uma classe, mesmo assim, é possível criar um objeto de instância dessa classe.
+
+Para que isso aconteça, os atributos e/ou métodos da classe precisam ser de qual tipo?
+
+
+RESPOSTA: 
+
+Sempre que uma classe for instanciada usando a palavra new o seu construtor é chamado.
+
+Quando você cria uma classe, um construtor é automaticamente criado para você se você não definir nenhum construtor.
+Este construtor é chamado de construtor padrão. 
+
+Este construtor construtor padrão instancia o objeto e define valores padrão para os membros da classe.
+
+Para isso poder acessar os atributos/métodos da classe, os mesmos precisam ser do tipo public.

@@ -1,0 +1,15 @@
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 4 - Busca número menor\bin\Debug\net6.0\[M2S02] Ex 4 - Busca número menor.exe
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 4 - Busca número menor\bin\Debug\net6.0\[M2S02] Ex 4 - Busca número menor.deps.json
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 4 - Busca número menor\bin\Debug\net6.0\[M2S02] Ex 4 - Busca número menor.runtimeconfig.json
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 4 - Busca número menor\bin\Debug\net6.0\[M2S02] Ex 4 - Busca número menor.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 4 - Busca número menor\bin\Debug\net6.0\ref\[M2S02] Ex 4 - Busca número menor.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 4 - Busca número menor\bin\Debug\net6.0\[M2S02] Ex 4 - Busca número menor.pdb
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 4 - Busca número menor\obj\Debug\net6.0\[M2S02] Ex 4 - Busca número menor.csproj.AssemblyReference.cache
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 4 - Busca número menor\obj\Debug\net6.0\[M2S02] Ex 4 - Busca número menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 4 - Busca número menor\obj\Debug\net6.0\[M2S02] Ex 4 - Busca número menor.AssemblyInfoInputs.cache
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 4 - Busca número menor\obj\Debug\net6.0\[M2S02] Ex 4 - Busca número menor.AssemblyInfo.cs
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 4 - Busca número menor\obj\Debug\net6.0\[M2S02] Ex 4 - Busca número menor.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 4 - Busca número menor\obj\Debug\net6.0\[M2S02] Ex 4 - Busca número menor.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 4 - Busca número menor\obj\Debug\net6.0\ref\[M2S02] Ex 4 - Busca número menor.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 4 - Busca número menor\obj\Debug\net6.0\[M2S02] Ex 4 - Busca número menor.pdb
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 4 - Busca número menor\obj\Debug\net6.0\[M2S02] Ex 4 - Busca número menor.genruntimeconfig.cache

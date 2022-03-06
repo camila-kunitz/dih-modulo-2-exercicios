@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "878da45c-dd0b-4d93-88ce-ca66958f2c05": {
+      "ProjectGuid": "878da45c-dd0b-4d93-88ce-ca66958f2c05",
+      "DisplayName": "BibliotecaClasses",
+      "ColorIndex": 0
+    },
+    "fafc81ef-0ffd-4915-9b34-d83047bd5faa": {
+      "ProjectGuid": "fafc81ef-0ffd-4915-9b34-d83047bd5faa",
+      "DisplayName": "ProjetoConsole",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

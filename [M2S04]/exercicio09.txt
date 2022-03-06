@@ -1,0 +1,11 @@
+[M2S04] Ex 9 - Modificadores de acessos private e private protected
+
+De acordo com o seu entendimento, qual a diferença entre os modificadores de acesso private protected e private?
+
+
+RESPOSTA: 
+
+O modificador de acesso PRIVATE PROTECTED pode ser aplicado dentro da mesma classe ou de classe derivada desde 
+que esteja no mesmo assembly (projeto). 
+
+Já o modificador PRIVATE só pode ser aplicado em uma única hipótese, no caso, apenas dentro da classe.

@@ -1,0 +1,15 @@
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 7 - Inversor\bin\Debug\net6.0\[M2S02] Ex 7 - Inversor.exe
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 7 - Inversor\bin\Debug\net6.0\[M2S02] Ex 7 - Inversor.deps.json
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 7 - Inversor\bin\Debug\net6.0\[M2S02] Ex 7 - Inversor.runtimeconfig.json
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 7 - Inversor\bin\Debug\net6.0\[M2S02] Ex 7 - Inversor.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 7 - Inversor\bin\Debug\net6.0\ref\[M2S02] Ex 7 - Inversor.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 7 - Inversor\bin\Debug\net6.0\[M2S02] Ex 7 - Inversor.pdb
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 7 - Inversor\obj\Debug\net6.0\[M2S02] Ex 7 - Inversor.csproj.AssemblyReference.cache
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 7 - Inversor\obj\Debug\net6.0\[M2S02] Ex 7 - Inversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 7 - Inversor\obj\Debug\net6.0\[M2S02] Ex 7 - Inversor.AssemblyInfoInputs.cache
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 7 - Inversor\obj\Debug\net6.0\[M2S02] Ex 7 - Inversor.AssemblyInfo.cs
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 7 - Inversor\obj\Debug\net6.0\[M2S02] Ex 7 - Inversor.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 7 - Inversor\obj\Debug\net6.0\[M2S02] Ex 7 - Inversor.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 7 - Inversor\obj\Debug\net6.0\ref\[M2S02] Ex 7 - Inversor.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 7 - Inversor\obj\Debug\net6.0\[M2S02] Ex 7 - Inversor.pdb
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 7 - Inversor\obj\Debug\net6.0\[M2S02] Ex 7 - Inversor.genruntimeconfig.cache

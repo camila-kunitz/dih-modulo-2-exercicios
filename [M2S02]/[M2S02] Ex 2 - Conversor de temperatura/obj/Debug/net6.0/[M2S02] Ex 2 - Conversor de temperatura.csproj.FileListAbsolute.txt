@@ -1,0 +1,15 @@
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 2 - Conversor de temperatura\bin\Debug\net6.0\[M2S02] Ex 2 - Conversor de temperatura.exe
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 2 - Conversor de temperatura\bin\Debug\net6.0\[M2S02] Ex 2 - Conversor de temperatura.deps.json
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 2 - Conversor de temperatura\bin\Debug\net6.0\[M2S02] Ex 2 - Conversor de temperatura.runtimeconfig.json
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 2 - Conversor de temperatura\bin\Debug\net6.0\[M2S02] Ex 2 - Conversor de temperatura.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 2 - Conversor de temperatura\bin\Debug\net6.0\ref\[M2S02] Ex 2 - Conversor de temperatura.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 2 - Conversor de temperatura\bin\Debug\net6.0\[M2S02] Ex 2 - Conversor de temperatura.pdb
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 2 - Conversor de temperatura\obj\Debug\net6.0\[M2S02] Ex 2 - Conversor de temperatura.csproj.AssemblyReference.cache
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 2 - Conversor de temperatura\obj\Debug\net6.0\[M2S02] Ex 2 - Conversor de temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 2 - Conversor de temperatura\obj\Debug\net6.0\[M2S02] Ex 2 - Conversor de temperatura.AssemblyInfoInputs.cache
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 2 - Conversor de temperatura\obj\Debug\net6.0\[M2S02] Ex 2 - Conversor de temperatura.AssemblyInfo.cs
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 2 - Conversor de temperatura\obj\Debug\net6.0\[M2S02] Ex 2 - Conversor de temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 2 - Conversor de temperatura\obj\Debug\net6.0\[M2S02] Ex 2 - Conversor de temperatura.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 2 - Conversor de temperatura\obj\Debug\net6.0\ref\[M2S02] Ex 2 - Conversor de temperatura.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 2 - Conversor de temperatura\obj\Debug\net6.0\[M2S02] Ex 2 - Conversor de temperatura.pdb
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 2 - Conversor de temperatura\obj\Debug\net6.0\[M2S02] Ex 2 - Conversor de temperatura.genruntimeconfig.cache

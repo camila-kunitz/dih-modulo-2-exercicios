@@ -1,0 +1,12 @@
+[M2S04] Ex 7 - Modificadores de acessos protected e protected internal00
+
+De acordo com o seu entendimento, qual a diferença entre os modificadores de acesso protected e protected internal?
+
+
+RESPOSTA: 
+
+O modificador de acesso PROTECTED pode ser implementado tanto no mesmo assembly como em assembly diferente, 
+desde que a classe seja derivada. 
+
+Já o modificador INTERNAL não pode ser aplicado em qualquer hipótese (derivada e não derivada) em assembly diferente,
+somente no mesmo assembly (projeto).

@@ -1,0 +1,28 @@
+C:\Users\Camila\Desktop\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\bin\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.exe
+C:\Users\Camila\Desktop\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\bin\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.deps.json
+C:\Users\Camila\Desktop\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\bin\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.runtimeconfig.json
+C:\Users\Camila\Desktop\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\bin\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.dll
+C:\Users\Camila\Desktop\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\bin\Debug\net6.0\ref\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.dll
+C:\Users\Camila\Desktop\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\bin\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.pdb
+C:\Users\Camila\Desktop\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\obj\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila\Desktop\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\obj\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.AssemblyInfoInputs.cache
+C:\Users\Camila\Desktop\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\obj\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.AssemblyInfo.cs
+C:\Users\Camila\Desktop\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\obj\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Desktop\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\obj\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.dll
+C:\Users\Camila\Desktop\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\obj\Debug\net6.0\ref\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.dll
+C:\Users\Camila\Desktop\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\obj\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.pdb
+C:\Users\Camila\Desktop\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\obj\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.genruntimeconfig.cache
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\bin\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.exe
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\bin\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.deps.json
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\bin\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.runtimeconfig.json
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\bin\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\bin\Debug\net6.0\ref\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\bin\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.pdb
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\obj\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\obj\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.AssemblyInfoInputs.cache
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\obj\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.AssemblyInfo.cs
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\obj\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\obj\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\obj\Debug\net6.0\ref\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\obj\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.pdb
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\obj\Debug\net6.0\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.genruntimeconfig.cache

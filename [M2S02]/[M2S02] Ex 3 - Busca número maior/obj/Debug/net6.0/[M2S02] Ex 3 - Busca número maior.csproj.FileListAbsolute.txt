@@ -1,0 +1,14 @@
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 3 - Busca número maior\bin\Debug\net6.0\[M2S02] Ex 3 - Busca número maior.exe
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 3 - Busca número maior\bin\Debug\net6.0\[M2S02] Ex 3 - Busca número maior.deps.json
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 3 - Busca número maior\bin\Debug\net6.0\[M2S02] Ex 3 - Busca número maior.runtimeconfig.json
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 3 - Busca número maior\bin\Debug\net6.0\[M2S02] Ex 3 - Busca número maior.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 3 - Busca número maior\bin\Debug\net6.0\ref\[M2S02] Ex 3 - Busca número maior.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 3 - Busca número maior\bin\Debug\net6.0\[M2S02] Ex 3 - Busca número maior.pdb
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 3 - Busca número maior\obj\Debug\net6.0\[M2S02] Ex 3 - Busca número maior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 3 - Busca número maior\obj\Debug\net6.0\[M2S02] Ex 3 - Busca número maior.AssemblyInfoInputs.cache
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 3 - Busca número maior\obj\Debug\net6.0\[M2S02] Ex 3 - Busca número maior.AssemblyInfo.cs
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 3 - Busca número maior\obj\Debug\net6.0\[M2S02] Ex 3 - Busca número maior.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 3 - Busca número maior\obj\Debug\net6.0\[M2S02] Ex 3 - Busca número maior.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 3 - Busca número maior\obj\Debug\net6.0\ref\[M2S02] Ex 3 - Busca número maior.dll
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 3 - Busca número maior\obj\Debug\net6.0\[M2S02] Ex 3 - Busca número maior.pdb
+C:\Users\Camila\Desktop\DevInHouse - Módulo 02 - Exercícios [M2S02]\[M2S02] Ex 3 - Busca número maior\obj\Debug\net6.0\[M2S02] Ex 3 - Busca número maior.genruntimeconfig.cache

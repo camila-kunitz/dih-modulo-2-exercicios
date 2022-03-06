@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _M2S02__Ex_8___Ler_arquivo
+build_property.ProjectDir = C:\Users\Camila\Desktop\dih-modulo-2-exercicios\[M2S02]\[M2S02] Ex 8 - Ler arquivo\

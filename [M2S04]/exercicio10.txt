@@ -1,0 +1,10 @@
+[M2S04] Ex 10 - Modificador de acesso internal
+
+De acordo com o seu entendimento, o que é um modificador de acesso internal e quais os níveis de acesso
+desse modificador em um projeto?
+
+
+RESPOSTA: 
+
+O Modificador Internal possui acesso ilimitado, desde que, no assembly atual, podendo ser aplicado dentro da classe,
+classe derivada ou não derivada.
