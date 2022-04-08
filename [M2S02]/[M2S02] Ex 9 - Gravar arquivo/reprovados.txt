@@ -1,0 +1,2 @@
+Aluno(a) Jos� com média 3 foi reprovado(a).
+Aluno(a) Marcia com média 4 foi reprovado(a).

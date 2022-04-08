@@ -19,6 +19,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "[M2S02] Ex 8 - Ler arquivo"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "[M2S02] Ex 6 - Equilátero, isósceles ou escaleno", "[M2S02] Ex 6 - Equilátero, isósceles ou escaleno\[M2S02] Ex 6 - Equilátero, isósceles ou escaleno.csproj", "{36DCD7D4-B1D6-4A4C-BF31-9353F01F5DE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[M2S02] Ex 9 - Gravar arquivo", "[M2S02] Ex 9 - Gravar arquivo\[M2S02] Ex 9 - Gravar arquivo.csproj", "{EAA34E72-D765-4DE3-984C-D1E6842AA1B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[M2S02] Ex10 - Regras salariais", "[M2S02] Ex10 - Regras salariais\[M2S02] Ex10 - Regras salariais.csproj", "{3FD7A2DC-28DA-4D0E-B3B8-CA2F1A8DB6F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{36DCD7D4-B1D6-4A4C-BF31-9353F01F5DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36DCD7D4-B1D6-4A4C-BF31-9353F01F5DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36DCD7D4-B1D6-4A4C-BF31-9353F01F5DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA34E72-D765-4DE3-984C-D1E6842AA1B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA34E72-D765-4DE3-984C-D1E6842AA1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA34E72-D765-4DE3-984C-D1E6842AA1B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA34E72-D765-4DE3-984C-D1E6842AA1B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD7A2DC-28DA-4D0E-B3B8-CA2F1A8DB6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD7A2DC-28DA-4D0E-B3B8-CA2F1A8DB6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD7A2DC-28DA-4D0E-B3B8-CA2F1A8DB6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD7A2DC-28DA-4D0E-B3B8-CA2F1A8DB6F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
