@@ -1,0 +1,71 @@
+-- Exercicio 01:
+ CREATE DATABASE Clinica;
+
+-- Exercicio 02:
+CREATE TABLE Sala (
+	Id INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	NumeroSala INT UNIQUE NOT NULL,
+	Andar INT NOT NULL
+);
+
+-- Exercicio 03:
+CREATE TABLE Medico (
+	Id INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	Crm VARCHAR(15) UNIQUE NOT NULL,
+	Nome VARCHAR(200) NOT NULL,
+	DataNascimento DATETIME,
+	Especialidade VARCHAR(100) NOT NULL, 
+	Cpf VARCHAR(15) UNIQUE NOT NULL,
+	DataAdmissao DATETIME NOT NULL
+);
+
+-- Exercicio 04:
+CREATE TABLE PlanoSaude (
+	Id INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	Nome VARCHAR(200) NOT NULL,
+	DataAtivo DATETIME NOT NULL,
+	DataInativacao DATETIME,
+	Ativo BIT NOT NULL
+);
+
+-- Exercicio 05:
+CREATE TABLE Paciente (
+	Id INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	Rg VARCHAR(15) NOT NULL,
+	Nome VARCHAR(200) NOT NULL,
+	DataNascimento DATETIME NOT NULL,
+	Endereco VARCHAR(300),
+	IdPlanoSaude INT,
+	CONSTRAINT FK_Paciente_PlanoSaude FOREIGN KEY (IdPlanoSaude) REFERENCES PlanoSaude(Id)
+);
+
+-- Exercicio 06:
+CREATE TABLE Cargo (
+	Id INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	Nome VARCHAR(200) NOT NULL,
+);
+
+-- Exercicio 07:
+CREATE TABLE Funcionario (
+	Id INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	Matricula VARCHAR(15) UNIQUE NOT NULL,
+	Nome VARCHAR(200) NOT NULL,
+	DataNascimento DATETIME NOT NULL,
+	DataAdmissao DATETIME NOT NULL,
+	Salario MONEY NOT NULL,
+	IdCargo INT,
+	CONSTRAINT FK_Funcionario_Cargo FOREIGN KEY (IdCargo) REFERENCES Cargo(Id)
+);
+
+-- Exercicio 08:
+CREATE TABLE Consulta (
+	Id INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	DataConsulta DATETIME NOT NULL,
+	Relatorio VARCHAR(MAX),
+	PrecricaoRemedio VARCHAR(500),
+	Observacao VARCHAR(300),
+	IdPaciente INT,
+	IdFuncionario INT,
+	CONSTRAINT FK_Consulta_Paciente FOREIGN KEY (IdPaciente) REFERENCES Paciente(Id),
+	CONSTRAINT FK_Consulta_Funcionario FOREIGN KEY (IdFuncionario) REFERENCES Funcionario(Id)
+);
