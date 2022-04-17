@@ -51,6 +51,9 @@ namespace ClinicaVeterinaria.Controllers
         /// <response code="404">Não encontrado.</response>
         /// <response code="200">Ocorreu uma exceção durante a Espécie.</response>
         [HttpPost]
+        [ProducesResponseType(StatusCodes.Status201Created)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public Especie Criar([FromBody] Especie especie)
         {
             return new Especie { Id = 1 };
