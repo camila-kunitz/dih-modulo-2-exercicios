@@ -10,3 +10,4 @@ Módulo 02 - Back-end com C#, SQL e .net Core - DevInHouse - 4° Edição.
 - [Módulo 2 - Semana 8 - Exercícios](/[M2S08])
 - [Módulo 2 - Semana 9 - Exercícios](/[M2S09])
 - [Módulo 2 - Semana 10 - Exercícios](/[M2S10])
+- [Módulo 2 - Semana 11 - Exercícios](/[M2S11])
